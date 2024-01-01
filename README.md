@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @1niciat1v3
+- 👋 @1niciat1v3, Nikita Kostrov
 - 👀 I’m interested in Programming, Music, Series,Movies and games
-- 🌱 I’m currently learning ML and DS
+- 🌱 I’m currently learning Machine Learning & Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
